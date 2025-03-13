@@ -1,0 +1,11 @@
+config_version=5
+
+[application]
+
+config/name="beta test menu"
+run/main_scene="uid://cab282xlh7et"
+config/features=PackedStringArray("4.4", "C#", "Forward Plus")
+
+[dotnet]
+
+project/assembly_name="test eip"
