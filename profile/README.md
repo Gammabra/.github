@@ -1,3 +1,5 @@
+![GAMMABRA Header](./GAMMABRA.png)
+
 # 🏢 **Gammabra Studios**  
 
 *Innovating Tactical RPGs, One Game at a Time.*  
