@@ -20,7 +20,7 @@ We are committed to delivering high-quality RPG experiences that challenge and c
 ## 🎮 **Our Games**  
 ### 🔥 *Ashes Of Velsingrad*  
 A tactical RPG of **betrayal, power, and redemption.** Step into a world of war, plague, and corruption, and determine your own fate.  
-👉 [Learn More](https://github.com/GammabraStudios/AshesOfVelsingrad)  
+👉 [Learn More](https://ashes-of-velsingrad.com/)  
 
 ## 🛠 **Our Team**  
 | Name | Role |  
