@@ -1,24 +1,31 @@
 ---
-name: ✨ Feature
-about: Suggest an idea for this project
-title: ""
-labels: '✨ feature'
-assignees: ''
-
+name: ✨ **Feature Request**  
+about: Suggest an idea for this project  
+title: ""  
+labels: '✨ feature'  
+assignees: ''  
 ---
 
-# Context
+## 📝 **Context**  
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. *ex:* I always have to ... when [...]
+**💡 Problem Statement**  
+> _Is your feature request related to a problem? Please describe it clearly._  
+> _Example: I always have to [...] when [...]_  
 
-# Solution
+## 💡 **Proposed Solution**  
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**🚀 Desired Outcome**  
+> _Describe the solution you'd like to see. Be as specific as possible._  
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**🔍 Alternatives Considered**  
+> _List any alternative solutions or features you’ve thought about._  
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 📚 **Additional Context**  
+
+> _Include any other context, references, or screenshots to support your request._  
+
+- 🖼️ Screenshots (if applicable)  
+- 💬 Relevant discussions or links  
+- 🏗️ Technical considerations  
+
+✅ **Thank you for helping us improve the project!**
