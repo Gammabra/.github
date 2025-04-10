@@ -30,6 +30,7 @@ A tactical RPG of **betrayal, power, and redemption.** Step into a world of war,
 | **Eric Xu** | Programmer |  
 | **Louis Ferrari** | Programmer |  
 | **Amaury Baffreau** | Programmer |  
+| **Nicolas Ferreira-Andre** | Programmer |
 
 ## 🤝 **Join Us**  
 Interested in collaborating or joining our team? Reach out to us!  
