@@ -52,4 +52,4 @@ Interested in collaborating or joining our team? Reach out to us!
 
 ---
 
-© 2025 Gammabra Studios. All Rights Reserved.
+© 2026 Gammabra Studios. All Rights Reserved.
