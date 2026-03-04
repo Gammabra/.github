@@ -24,22 +24,22 @@ A tactical RPG of **betrayal, power, and redemption.** Step into a world of war,
 
 ## 🛠 **Our Team**  
 | Name | Role |  
-|------|------|  
-| **Thomas Lebouc** | Programmer |  
-| **Miguel Da Silva Andrade De Freitas** | Programmer |  
+|------|------|   
+| **Miguel Da Silva Andrade De Freitas** | Discussion Lead & Product Owner |  
 | **Eric Xu** | Programmer |  
-| **Louis Ferrari** | Programmer |  
-| **Amaury Baffreau** | Programmer |  
+| **Louis Ferrari** | Technical Decision Owner |  
+| **Amaury Baffreau** | Scrum Master & Documentation Lead |  
 | **Nicolas Ferreira-Andre** | Programmer |
+| **Anëlle Urbon** | Programmer |
 
 ## 🤝 **Join Us**  
 Interested in collaborating or joining our team? Reach out to us!  
-📧 **Contact:** [team@gammabra.com](mailto:team@gammabra.com) *(Coming Soon!)*  
+📧 **Contact:** [team@gammabra.com](mailto:ashesofvelsingrad@gmail.com)
 
 ## 📢 **Stay Connected**  
 🔹 [GitHub](https://github.com/GammabraStudios)  
-🔹 [Twitter](https://twitter.com/GammabraStudios) *(Coming Soon!)*  
-🔹 [Discord](https://discord.gg/your-invite-link) *(Coming Soon!)*  
+🔹 [Twitter]([https://twitter.com/GammabraStudios](https://x.com/Gammabra_AoV))  
+🔹 [Discord]([https://discord.gg/your-invite-link](https://discord.gg/edmS95J645))
 
 ---
 
